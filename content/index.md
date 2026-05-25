@@ -2,6 +2,8 @@
 title: Michael Barone
 ---
 
+<img src="profile.png" alt="Michael Barone" class="profile-pic" />
+
 <div class="social-links">
   <a href="https://www.linkedin.com/in/michael-barone-0a5375241/" target="_blank" aria-label="LinkedIn">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="22" height="22">
@@ -16,6 +18,14 @@ title: Michael Barone
 </div>
 
 <style>
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 16px;
+  object-fit: cover;
+  margin-bottom: 0.75rem;
+  display: block;
+}
 .social-links {
   display: flex;
   gap: 0.75rem;
