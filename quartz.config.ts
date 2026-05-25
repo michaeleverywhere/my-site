@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Michael Barone",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -29,14 +29,14 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#f0ede8",
+          lightgray: "#dedad4",
+          gray: "#a0998f",
+          darkgray: "#222222",
+          dark: "#111111",
+          secondary: "#2b2b2b",
+          tertiary: "#555555",
+          highlight: "rgba(0, 0, 0, 0.06)",
           textHighlight: "#fff23688",
         },
         darkMode: {

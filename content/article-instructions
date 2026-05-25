@@ -1,0 +1,84 @@
+# How to Write a New Article
+
+## 1. Create the file
+
+Add a new `.md` file inside `content/ideas/`:
+
+```
+content/ideas/your-article-title.md
+```
+
+Use lowercase with dashes, no spaces (e.g. `why-ai-wins.md`).
+
+---
+
+## 2. Add the frontmatter
+
+Every article must start with this at the top:
+
+```
+---
+title: Your Title Here
+date: YYYY-MM-DD
+---
+```
+
+---
+
+## 3. Writing format
+
+**Subtitle / intro line** — wrap in `*italics*`:
+```
+*This is the subtitle or one-liner under the title.*
+```
+
+**Bullets** — start each line with `- `:
+```
+- First item
+- Second item
+- Third item
+```
+
+**Horizontal divider** — use `---` on its own line:
+```
+---
+```
+
+**Image** — place where you want it to appear:
+```
+<div class="article-image-wrap">
+  <img src="your-image-filename.jpg" alt="Description" class="article-img-small" />
+</div>
+```
+Drop the image file into `content/ideas/` and use the exact filename.
+
+**Bold text** — wrap in `**double asterisks**`:
+```
+**This is bold**
+```
+
+---
+
+## 4. Add it to the Ideas index
+
+Open `content/ideas/index.md` and add a new card block:
+
+```
+<a class="idea-card" href="/ideas/your-article-title">
+  <div class="idea-card-text">
+    <div class="idea-title">Your Title Here</div>
+    <div class="idea-date">Month DD, YYYY</div>
+  </div>
+  <img class="idea-image" src="/ideas/your-image-filename.jpg" alt="Your Title" />
+</a>
+```
+
+Paste it inside the `<div class="idea-grid">` block, above the existing cards.
+
+---
+
+## 5. Restart the server to see changes
+
+```
+npx quartz build --serve
+```
