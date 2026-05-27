@@ -3,7 +3,7 @@ title: Robots Are Winning Marathons
 date: 2026-05-27
 ---
 
-The defensibility question keeping investors up at night - AI is eating software. Which ideas and niches are going to survive the next Claude release / partnership? Hardware has become an increasingly attractive space that has the potential to endure as it directly benefits from the knock on effects of frontier models while staying insulated from it — hardware doesn't get commoditized overnight.
+The defensibility question keeping investors up at night - AI is eating software. Which ideas and niches are going to survive the next Claude release / partnership? Hardware has become an increasingly attractive space that has the potential to endure as it directly benefits from the knock on effects of frontier models while staying insulated from it - hardware doesn't get commoditized overnight.
 
 The robotics taxonomy can be broadly viewed in a number of different ways from physical architecture to the end market where defense and security occupy the largest chunk. 2025 was a watershed moment for robotics capital. The sector recorded roughly \$28B invested across 1,000 deals which was double the \$13B invested in 2024. The tech stack underpinning modern robotics reached an inflection point in 23/24, and it happened at the software layer first. VLA models went from research to commercial products in 2 years. By 2026, VLA models have become the primary backbone of the industry with fine-tuned models now consistently outperforming custom robotic policies trained from scratch. **NVIDIA's Cosmos** world models and Newton physics engines are enabling robots to train on synthetic data at scale, efficiently closing the gap between virtual training and real world development.
 
@@ -66,8 +66,8 @@ The industry as a whole is not waiting for a breakthrough moment. The breakthrou
   margin: 2rem 0;
 }
 .article-img-small {
-  width: 70%;
-  max-width: 480px;
+  width: 90%;
+  max-width: 720px;
   border-radius: 6px;
   object-fit: cover;
 }
