@@ -3,13 +3,11 @@ title: Robots Are Winning Marathons
 date: 2026-05-27
 ---
 
-*The defensibility question keeping investors up at night — AI is eating software. Which ideas are going to survive the next Claude release?*
-
 <div class="article-image-wrap">
   <img src="robot-marathon.webp" alt="Robot wins Beijing half-marathon" class="article-img-small" />
 </div>
 
-A robot won the Beijing half-marathon in April. The timeline may be compressing faster than expected.
+*A robot won the Beijing half-marathon in April. The timeline may be compressing faster than expected.*
 
 ---
 
