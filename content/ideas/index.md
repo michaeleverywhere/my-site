@@ -5,6 +5,13 @@ title: Ideas
 Things I'm thinking about. Patterns in markets, technology, and the world.
 
 <div class="idea-grid">
+  <a class="idea-card" href="/ideas/robots-are-winning-marathons">
+    <div class="idea-card-text">
+      <div class="idea-title">Robots Are Winning Marathons</div>
+      <div class="idea-date">May 27, 2026</div>
+    </div>
+    <img class="idea-image" src="/ideas/robot-marathon.webp" alt="Robots Are Winning Marathons" />
+  </a>
   <a class="idea-card" href="/ideas/billion-dollar-breakups">
     <div class="idea-card-text">
       <div class="idea-title">Billion Dollar Breakups</div>
