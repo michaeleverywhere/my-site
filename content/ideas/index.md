@@ -5,6 +5,13 @@ title: Ideas
 Things I'm thinking about. Patterns in markets, technology, and the world.
 
 <div class="idea-grid">
+  <a class="idea-card" href="/ideas/internet-wasnt-built-for-ai">
+    <div class="idea-card-text">
+      <div class="idea-title">The Internet Wasn't Built for AI</div>
+      <div class="idea-date">June 15, 2026</div>
+    </div>
+    <img class="idea-image" src="/internet-article.png" alt="The Internet Wasn't Built for AI" />
+  </a>
   <a class="idea-card" href="/ideas/spacex-ipo">
     <div class="idea-card-text">
       <div class="idea-title">How COTS Changed the Space Economy</div>
