@@ -23,3 +23,7 @@ Reverse engineering of internal APIs, i.e. analyzing network requests to identif
 Cloudflare has their crawl endpoint where agents can now crawl an entire website with a single API call using Browser Rendering's new /crawl. [Maango](https://www.maango.io/report) recently released a report that they crawled 1M domains and 90% do not have an AI policy in place. They used Tranco top 1M domains (ranked websites by popularity using real internet traffic). The scraper analyzed a myriad of different AI policies and even after scanning 80K to policies, the vast majority had no anti-bot rules. However, stakes are rising for corporations - Anthropic had agreed to a proposed $1.5B settlement with publishers over claims that its AI models were trained on copyrighted material without permission, highlighting the growing legal risk around training data. In December, OpenAI updated its crawler documentation, removing the statement that the ChatGPT-User agent follows robots.txt, suggesting that AI browsing triggered by users may access pages even if a site blocks bots.
 
 The gap between AI agents and what they're doing and what policies companies have in place is enormous - making it a digital oil field with no formal laws.
+
+---
+
+[Read more on Michael's Substack](https://michaeljbarone.substack.com/)
