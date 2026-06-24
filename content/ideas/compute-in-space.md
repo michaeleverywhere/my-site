@@ -36,3 +36,7 @@ The biggest proponent of compute in space is Elon Musk, who predicts that within
 ---
 
 There are already a myriad of builders emerging around this shift to space. On the terrestrial side, companies like Verse are tackling the immediate bottleneck: faster power access for AI infrastructure. If orbital compute scales, several opportunities may be in the data layers around it. A YC company Quindar is building mission management software that functions like a "Datadog for space," monitoring the full service chain across satellites, antennas, networks, and ground infrastructure. If Starcloud, SpaceX, Google, and others build the orbital data centers, an entire stack still needs to be outsourced. In other words, the biggest companies may build the compute, but the whitespace may be in everything required to make orbital compute reliable.
+
+---
+
+Read more on [Michael's Substack](https://michaeljbarone.substack.com/)
