@@ -5,15 +5,15 @@ date: 2026-07-04
 
 *The next edge is not more intelligence. It is more efficient intelligence.*
 
-2026 was earmarked for increased token spend across enterprises. Jensen remarked that he would be "deeply alarmed" if a $500K engineer did not consume at least $250K of tokens. More recently, Marc Benioff of Salesforce noted that they will likely spend $300M on Anthropic tokens this year - Salesforce employs ~15K engineers, which amounts to roughly $20K in token cost per engineer. Uber has already burned through their 2026 budget, and the list goes on and on.
+2026 was earmarked for increased token spend across enterprises. Jensen remarked that he would be "deeply alarmed" if a \$500K engineer did not consume at least \$250K of tokens. More recently, Marc Benioff of Salesforce noted that they will likely spend \$300M on Anthropic tokens this year - Salesforce employs ~15K engineers, which amounts to roughly \$20K in token cost per engineer. Uber has already burned through their 2026 budget, and the list goes on and on.
 
 In terms of CapEx, the spending curve follows the same pattern -
 
-- Amazon is projecting roughly $200B of capital spending in 2026, up from $131B in 2025.
-- Alphabet expects $180B-$190B, roughly double last year's level.
-- Meta guided to $115B-$135B in 2026 after spending $72.2B in 2025.
+- Amazon is projecting roughly \$200B of capital spending in 2026, up from \$131B in 2025.
+- Alphabet expects \$180B-\$190B, roughly double last year's level.
+- Meta guided to \$115B-\$135B in 2026 after spending \$72.2B in 2025.
 
-All the above are planning to pour more than $630B into data centers and AI chips this year.
+All the above are planning to pour more than \$630B into data centers and AI chips this year.
 
 <div class="article-image-wrap">
   <img src="/diminishing_1.png" alt="AI CapEx spending" class="article-img-small" />
