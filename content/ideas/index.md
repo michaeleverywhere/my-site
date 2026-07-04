@@ -5,6 +5,13 @@ title: Ideas
 Things I'm thinking about. Patterns in markets, technology, and the world.
 
 <div class="idea-grid">
+  <a class="idea-card" href="/ideas/the-diminishing-returns-of-intelligence">
+    <div class="idea-card-text">
+      <div class="idea-title">The Diminishing Returns of Intelligence</div>
+      <div class="idea-date">July 4, 2026</div>
+    </div>
+    <img class="idea-image" src="/diminishing_1.png" alt="The Diminishing Returns of Intelligence" />
+  </a>
   <a class="idea-card" href="/ideas/compute-in-space">
     <div class="idea-card-text">
       <div class="idea-title">Compute's Next Geography</div>
