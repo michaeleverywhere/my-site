@@ -5,6 +5,8 @@ title: Book Recs
 Books I've read lately and think are worth your time.
 
 <div class="book-grid">
+  <img src="book-images/Mind.jpg" alt="Mind" />
+  <img src="book-images/Super.png" alt="Super" />
   <img src="book-images/demis.png" alt="Demis" />
   <img src="book-images/chips.png" alt="Chips" />
   <img src="book-images/nitcoin.png" alt="Bitcoin" />
