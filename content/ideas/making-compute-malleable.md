@@ -42,3 +42,7 @@ Even companies like SkyPilot (\$20 million seed round announced in July) add ano
 </div>
 
 How far can we stretch the idea of malleability? Looking at how computing evolved from mechanical machines to modern chips makes technologies like quantum and photonic computing feel less like science fiction and perhaps next on the path.
+
+---
+
+Read more on [Michael's Substack](https://michaeljbarone.substack.com/)
