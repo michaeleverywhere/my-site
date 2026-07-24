@@ -5,6 +5,13 @@ title: Ideas
 Things I'm thinking about. Patterns in markets, technology, and the world.
 
 <div class="idea-grid">
+  <a class="idea-card" href="/ideas/making-compute-malleable">
+    <div class="idea-card-text">
+      <div class="idea-title">Making Compute Malleable</div>
+      <div class="idea-date">July 24, 2026</div>
+    </div>
+    <img class="idea-image" src="/ideas/malleable.png" alt="Making Compute Malleable" />
+  </a>
   <a class="idea-card" href="/ideas/the-diminishing-returns-of-intelligence">
     <div class="idea-card-text">
       <div class="idea-title">The Diminishing Returns of Intelligence</div>
