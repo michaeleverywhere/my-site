@@ -2,7 +2,7 @@
 title: Signals
 ---
 
-Connecting ideas and open source to emerging themes across the startup ecosystem.
+Connecting research and open source to emerging themes across the startup ecosystem.
 
 <div class="idea-grid">
   <a class="idea-card" href="/signals/agentic-payments">

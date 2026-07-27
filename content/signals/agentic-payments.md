@@ -3,7 +3,7 @@ title: Signals and Startups (No. 1)
 date: 2026-07-27
 ---
 
-*Connecting ideas and open source to emerging themes across the startup ecosystem.*
+*Connecting research and open source to emerging themes across the startup ecosystem.*
 
 The foundation of agentic commerce has largely been laid out by a handful of major incumbents, each attempting to own a different part of the transactions stack which I categorize loosely as merchant connectivity, identity and verification, agent permission, payment rails, and post purchase tracing.
 
@@ -37,17 +37,17 @@ An agent could use the same infrastructure to automatically purchase more comput
 
 ---
 
-Recent funding funding…
+Recent funding…
 
-Natural: Payments infrastructure built for AI agents. Raised a $30 million Series A led by Forerunner announced in July.
+**Natural**: Payments infrastructure built for AI agents. Raised a **\$30 million Series A** led by Forerunner announced in July.
 
-Orthogonal: Infrastructure that helps agents discover services, route transactions across blockchains, and execute machine-to-machine payments. Raised a $4.3 million seed round from Pantera Capital, Y Combinator, Pioneer Fund, Decasonic, Blast, Outbound, and Surreal announced in June.
+**Orthogonal**: Infrastructure that helps agents discover services, route transactions across blockchains, and execute machine-to-machine payments. Raised a **\$4.3 million seed round** from Pantera Capital, Y Combinator, Pioneer Fund, Decasonic, Blast, Outbound, and Surreal announced in June.
 
-Trustap: Transaction and escrow infrastructure that verifies sellers, manages payments, and supports secure purchases by AI shopping agents. Raised $10 million from Aperture Capital announced in June.
+**Trustap**: Transaction and escrow infrastructure that verifies sellers, manages payments, and supports secure purchases by AI shopping agents. Raised **\$10 million** from Aperture Capital announced in June.
 
-ShopAgentic: Merchant infrastructure for product data, inventory visibility, pricing, and agent-led transactions. Raised a €1.9 million pre-seed round from May Ventures and Greenfield Capital announced in June.
+**ShopAgentic**: Merchant infrastructure for product data, inventory visibility, pricing, and agent-led transactions. Raised a **€1.9 million pre-seed round** from May Ventures and Greenfield Capital announced in June.
 
-More to come on the subject soon…
+**More to come on the subject soon…**
 
 ---
 
