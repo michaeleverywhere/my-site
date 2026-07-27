@@ -21,7 +21,7 @@ The B2B procurement space is a good example of this where 61% of procurement lea
 
 ---
 
-Paper of the week: Paymenter ([https://github.com/Paymenter/Paymenter](https://github.com/Paymenter/Paymenter)) (2k stars)
+**Paper of the week:** ***<u>[Paymenter](https://github.com/Paymenter/Paymenter)</u>*** *(2k stars)*
 
 Agentic commerce may continue to emerge first in areas like compute, where demand is measurable and purchases can be provisioned immediately through software.
 
