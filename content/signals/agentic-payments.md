@@ -13,7 +13,7 @@ Google is closest to the consumer, owning discovery through search and Gemini, m
   <img src="agentic-payments-1.png" alt="Signals and Startups No. 1 image 1" class="article-img-small" />
 </div>
 
-Stripe may be the furthest ahead in stitching the full stack together. Its Agentic Commerce Suite connects merchants to AI agents (similar to Google’s UCP), and its ACP standardizes the checkout flow. Link and Shared Payment Tokens secure the credential, and Stripe handles fraud, orchestration, processing, and settlement. Its ambitions also extend in the M&A market as the company offered $53 billion for PayPal, while also in discussions to acquire OpenRouter at $10 billion
+Stripe may be the furthest ahead in stitching the full stack together. Its Agentic Commerce Suite connects merchants to AI agents (similar to Google’s UCP), and its ACP standardizes the checkout flow. Link and Shared Payment Tokens secure the credential, and Stripe handles fraud, orchestration, processing, and settlement. Its ambitions also extend in the M&A market as the company offered \$53 billion for PayPal, while also in discussions to acquire OpenRouter at \$10 billion
 
 Despite incumbents touching many areas of the supply chain, if you’re a believer that agents will eventually be completing transactions on behalf of humans in certain industries, the underlying infrastructure still needs to evolve.
 
@@ -21,7 +21,7 @@ The B2B procurement space is a good example of this where 61% of procurement lea
 
 ---
 
-**Paper of the week:** ***<u>[Paymenter](https://github.com/Paymenter/Paymenter)</u>*** *(2k stars)*
+<span style="font-size: 1.3em;">**Paper of the week:** ***<u>[Paymenter](https://github.com/Paymenter/Paymenter)</u>*** *(2k stars)*</span>
 
 Agentic commerce may continue to emerge first in areas like compute, where demand is measurable and purchases can be provisioned immediately through software.
 
@@ -51,4 +51,4 @@ More to come on the subject soon…
 
 ---
 
-Read more on Michael’s Substack ([https://michaeljbarone.substack.com/](https://michaeljbarone.substack.com/))
+Read more on [Michael’s Substack](https://michaeljbarone.substack.com/)
