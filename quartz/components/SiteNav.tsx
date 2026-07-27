@@ -7,6 +7,7 @@ const SiteNav: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
   const links = [
     { href: "/", label: "Home", slug: "index" },
     { href: "/ideas", label: "Ideas", slug: "ideas" },
+    { href: "/signals", label: "Signals", slug: "signals" },
     { href: "/book-recs", label: "Book Recs", slug: "book-recs" },
   ]
 

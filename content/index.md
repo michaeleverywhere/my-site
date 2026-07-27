@@ -44,4 +44,5 @@ title: Michael Barone
 I'm an early-stage investor at [Everywhere Ventures](https://www.everywhere.vc/). This is where I share ideas I'm thinking about and books worth reading.
 
 → [[ideas|Ideas]]
+→ [[signals|Signals]]
 → [[book-recs|Book Recs]]
