@@ -1,4 +1,4 @@
-Signals and Startups (No. 2) → Inside a Robot Brain
+Signals and Startups (No. 2) → Inside a Robot's Brain
 
 Connecting ideas and open source to emerging themes across the startup ecosystem.
 
