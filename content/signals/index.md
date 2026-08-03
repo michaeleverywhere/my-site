@@ -5,6 +5,13 @@ title: Signals
 Connecting research and open source to emerging themes across the startup ecosystem.
 
 <div class="idea-grid">
+  <a class="idea-card" href="/signals/robot-brain">
+    <div class="idea-card-text">
+      <div class="idea-title">Signals and Startups (No. 2) → Inside a Robot's Brain</div>
+      <div class="idea-date">August 3, 2026</div>
+    </div>
+    <img class="idea-image" src="/signals/robot-brain-1.png" alt="Signals and Startups (No. 2)" />
+  </a>
   <a class="idea-card" href="/signals/agentic-payments">
     <div class="idea-card-text">
       <div class="idea-title">Signals and Startups (No. 1)</div>
