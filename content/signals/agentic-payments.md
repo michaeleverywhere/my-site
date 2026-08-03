@@ -1,5 +1,5 @@
 ---
-title: Signals and Startups (No. 1)
+title: Signals and Startups (No. 1) → Agentic Commerce
 date: 2026-07-27
 ---
 

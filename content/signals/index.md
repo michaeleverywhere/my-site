@@ -14,7 +14,7 @@ Connecting research and open source to emerging themes across the startup ecosys
   </a>
   <a class="idea-card" href="/signals/agentic-payments">
     <div class="idea-card-text">
-      <div class="idea-title">Signals and Startups (No. 1)</div>
+      <div class="idea-title">Signals and Startups (No. 1) → Agentic Commerce</div>
       <div class="idea-date">July 27, 2026</div>
     </div>
     <img class="idea-image" src="/signals/agentic-payments-1.png" alt="Signals and Startups (No. 1)" />
