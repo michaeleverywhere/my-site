@@ -5,6 +5,13 @@ title: Signals
 Connecting research and open source to emerging themes across the startup ecosystem.
 
 <div class="idea-grid">
+  <a class="idea-card" href="/signals/continual-learning">
+    <div class="idea-card-text">
+      <div class="idea-title">Signals and Startups (No. 3) → Continual Learning</div>
+      <div class="idea-date">August 12, 2026</div>
+    </div>
+    <img class="idea-image" src="/signals/continual-learning-1.png" alt="Signals and Startups (No. 3)" />
+  </a>
   <a class="idea-card" href="/signals/robot-brain">
     <div class="idea-card-text">
       <div class="idea-title">Signals and Startups (No. 2) → Inside a Robot's Brain</div>
