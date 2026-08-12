@@ -12,7 +12,7 @@ Closer to the end user, memory has a completely different form, giving agents th
 There's a limit to how far memory can go without continually improving the model on past instances. Markdown files and vector dbs are useful for retrieval, and you can get creative on the types of retrieval algorithms to reduce latency; however, they are still fundamentally static representations of past experiences.
 
 <div class="article-image-wrap">
-  <img src="continual-learning-1.png" alt="Signals and Startups No. 3 image 1" class="article-img-small" />
+  <img src="continual-learning-2.png" alt="Signals and Startups No. 3 image 1" class="article-img-small" />
 </div>
 
 ---
@@ -22,7 +22,7 @@ There's a limit to how far memory can go without continually improving the model
 The authors of OPD recommend a multifaceted approach to self-evolving agents that combines a fast loop for immediate adaptation through memory with a slow loop that periodically distills useful experience into the model's weights.
 
 <div class="article-image-wrap">
-  <img src="continual-learning-2.png" alt="Signals and Startups No. 3 image 2" class="article-img-small" />
+  <img src="continual-learning-1.png" alt="Signals and Startups No. 3 image 2" class="article-img-small" />
 </div>
 
 In practice this would look something like:
@@ -31,7 +31,7 @@ In practice this would look something like:
 
 **Slow loop**: look across those completed tasks → identify which tips/skills/tools actually led to better outcomes → give that hindsight to the teacher (same model with hindsight / extra information) → distill the successful behavior into the student (model before learning) → backpropagate and update the model weights → deploy the improved model.
 
-Why this is important → As agents learn to "avoid ads" in the example above through memory, that recursive learning behavior that gets backfilled in markdown files actually has underutilized benefits. The slow-loop training distills frequently used behaviors into model weights and can reduce retrieval overhead, context-window usage, latency, and inference cost while making agent behavior more consistent at scale.
+***Why this is important → As agents learn to "avoid ads" in the example above through memory, that recursive learning behavior that gets backfilled in markdown files actually has underutilized benefits. The slow-loop training distills frequently used behaviors into model weights and can reduce retrieval overhead, context-window usage, latency, and inference cost while making agent behavior more consistent at scale.***
 
 ---
 
