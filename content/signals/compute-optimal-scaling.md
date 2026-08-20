@@ -1,5 +1,5 @@
 ---
-title: Signals and Startups (No. 4) → Compute-Optimal Scaling
+title: Signals and Startups (No. 4) → Chinchilla vs Gopher
 date: 2026-08-19
 ---
 
@@ -34,9 +34,9 @@ The memorable result was Chinchilla itself. DeepMind trained a 70B-parameter mod
 
 ***Why this is important (still today!): The insight was basically don't just throw your compute budget into more parameters. For compute-optimal training, their experiments suggested that when you double model size, you should also roughly double the number of training tokens. That was a pretty meaningful shift from "bigger model = better model" toward thinking about the ratio of model size, data, and compute.***
 
-**Today, for start-ups to build a defensible moat regardless of the industry they operate in, data is one part and your intelligence is the other. In [last week's article](https://michaeljbarone.substack.com/p/signals-and-startups-no-3-continual) I discussed continuous learning. I have been seeing more frequently that some sort of fast/slow loop of some type of feedback loop / stitching of RL is necessary to build a defensible product.**
+***Today, for start-ups to build a defensible moat regardless of the industry they operate in, data is one part and your intelligence is the other. In [last week's article](https://michaeljbarone.substack.com/p/signals-and-startups-no-3-continual) I discussed continuous learning. I have been seeing more frequently that some sort of fast/slow loop of some type of feedback loop / stitching of RL is necessary to build a defensible product.***
 
-**If a company is collecting proprietary data that Anthropic and OpenAI can't scrape, the now low hanging fruit is the intelligence layer on top that keeps improving even as foundation models catch up (just watch out for Micro1 and Mercor)**
+***If a company is collecting proprietary data that Anthropic and OpenAI can't scrape, the now low hanging fruit is the intelligence layer on top that keeps improving even as foundation models catch up (just watch out for Micro1 and Mercor)***
 
 <div class="article-image-wrap">
   <img src="compute-optimal-scaling-1.png" alt="Signals and Startups No. 4 image 1" class="article-img-small" />
