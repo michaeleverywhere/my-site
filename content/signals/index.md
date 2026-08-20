@@ -5,6 +5,13 @@ title: Signals
 Connecting research and open source to emerging themes across the startup ecosystem.
 
 <div class="idea-grid">
+  <a class="idea-card" href="/signals/compute-optimal-scaling">
+    <div class="idea-card-text">
+      <div class="idea-title">Signals and Startups (No. 4) → Compute-Optimal Scaling</div>
+      <div class="idea-date">August 19, 2026</div>
+    </div>
+    <img class="idea-image" src="/signals/compute-optimal-scaling-1.png" alt="Signals and Startups (No. 4)" />
+  </a>
   <a class="idea-card" href="/signals/continual-learning">
     <div class="idea-card-text">
       <div class="idea-title">Signals and Startups (No. 3) → Continual Learning</div>
