@@ -48,7 +48,7 @@ Recent funding snapshot…
 
 **Trajectory**: SF based lab developing a platform that enables continual learning for AI-powered products. Raised **\$40M** in August led by Sequoia Capital with participation from Bessemer Venture Partners and NVIDIA.
 
-**River**: A API for fine-tined RF, enabling users to build and serve personalized AI models. Raised a **\$1.1 billion** round led by AMP PBC and General Catalyst with participation from AMD, NVIDIA, Temasek, and Y Combinator, announced in August.
+**River AI**: A API for fine-tined RF, enabling users to build and serve personalized AI models. Raised a **\$1.1 billion** round led by AMP PBC and General Catalyst with participation from AMD, NVIDIA, Temasek, and Y Combinator, announced in August.
 
 **Fireworks AI**: Infrastructure to train, serve, evaluate, and improve open models on proprietary data. Raised a **\$1.5 billion Series D** led by Atreides Management, Index Ventures, and TCV with participation from Lightspeed, NVIDIA, Bessemer Venture Partners, and others, announced in July.
 
