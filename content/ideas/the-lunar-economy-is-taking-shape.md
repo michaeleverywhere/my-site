@@ -1,5 +1,5 @@
 ---
-title: The Lunar Economy Is Taking Shape
+title: "Signals and Startups (No. 5) → The Lunar Economy Is Taking Shape"
 date: 2026-09-01
 ---
 

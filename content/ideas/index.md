@@ -7,7 +7,7 @@ Things I'm thinking about. Patterns in markets, technology, and the world.
 <div class="idea-grid">
   <a class="idea-card" href="/ideas/the-lunar-economy-is-taking-shape">
     <div class="idea-card-text">
-      <div class="idea-title">The Lunar Economy Is Taking Shape</div>
+      <div class="idea-title">Signals and Startups (No. 5) → The Lunar Economy Is Taking Shape</div>
       <div class="idea-date">September 1, 2026</div>
     </div>
     <img class="idea-image" src="/ideas/lunar-economy.png" alt="The Lunar Economy Is Taking Shape" />
