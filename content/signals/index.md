@@ -5,6 +5,13 @@ title: Signals
 Connecting research and open source to emerging themes across the startup ecosystem.
 
 <div class="idea-grid">
+  <a class="idea-card" href="/signals/lunar-economy">
+    <div class="idea-card-text">
+      <div class="idea-title">Signals and Startups (No. 5) → The Lunar Economy Is Taking Shape</div>
+      <div class="idea-date">September 1, 2026</div>
+    </div>
+    <img class="idea-image" src="/signals/lunar-economy-1.png" alt="Signals and Startups (No. 5)" />
+  </a>
   <a class="idea-card" href="/signals/compute-optimal-scaling">
     <div class="idea-card-text">
       <div class="idea-title">Signals and Startups (No. 4) → Chinchilla vs Gopher</div>
