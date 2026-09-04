@@ -5,7 +5,7 @@ date: 2026-09-01
 
 *Connecting research and open source to emerging themes across the startup ecosystem.*
 
-Deloitte recently published an [in-depth analysis](https://www.deloitte.com/us/en/what-we-do/capabilities/space/articles/building-the-lunar-economy-report.html?utm_content=opening_essay&j=162139&sfmc_sub=33591013&l=1227_HTML&u=11902943&mid=546014653&jb=38&utm_source=sfmc&utm_medium=email&utm_campaign=NL_term-sheet_2026-8-28_162139&utm_term=term-sheet&sfmc_id=33591013) of the lunar economy, breaking the opportunity into three major value pools: core lunar activity, including transportation, launch and lander services, cargo delivery, energy and power, communications and navigation, surface mobility, construction, and life support.; enabled activity, including economic and innovation spillovers, scientific advancement, global inspiration, and potentially transformative applications that aren't clearly identified yet. The report estimates the core lunar economy could generate **\$343B** in cumulative value through 2050 through a conservative lens and **\$566B** in an accelerated growth scenario, with enabled active alone accounting for **\$123B** to **\$184B** of that value.
+Deloitte recently published an [in-depth analysis](https://www.deloitte.com/us/en/what-we-do/capabilities/space/articles/building-the-lunar-economy-report.html?utm_content=opening_essay&j=162139&sfmc_sub=33591013&l=1227_HTML&u=11902943&mid=546014653&jb=38&utm_source=sfmc&utm_medium=email&utm_campaign=NL_term-sheet_2026-8-28_162139&utm_term=term-sheet&sfmc_id=33591013) of the lunar economy, breaking the opportunity into three major value pools: core lunar activity, including transportation, launch and lander services, cargo delivery, energy and power, communications and navigation, surface mobility, construction, and life support; enabled activity, including economic and innovation spillovers, scientific advancement, global inspiration, and potentially transformative applications that aren't clearly identified yet. The report estimates the core lunar economy could generate **\$343B** in cumulative value through 2050 through a conservative lens and **\$566B** in an accelerated growth scenario, with enabled active alone accounting for **\$123B** to **\$184B** of that value.
 
 According to Pitchbook, this past June alone, VC backed space-tech start-ups raised **\$11.3B** across 244 deals surpassing the **\$10.B** invested across 433 deals in 2025. Within the lunar economy, enabled activities remain among the least developed, though still meaningfully funded, segments of the sector. This is largely due to the scarcity of usable lunar data and the industry's historical focus on more immediate infrastructure priorities, including reducing launch costs and improving lunar mapping and navigation.
 
@@ -18,12 +18,12 @@ NASA actually ISRU numbers exhibit this opportunity tangentially through their m
 
 ---
 
-<span style="font-size: 1.3em;">**Paper of the week: [An Integrated Process for Design and Control of Lunar Robotics Using AI and Simulation](https://arxiv.org/abs/2509.12367)**</span>
+**Paper of the week** (*[An Integrated Process for Design and Control of Lunar Robotics Using AI and Simulation](https://arxiv.org/abs/2509.12367)*)
 
 In today's robotics landscape, companies such as General Intuition, Shift, and Sunday Robotics are helping build the data, simulation, and training infrastructure needed to power the next generation of embodied AI.
 
 Depending on the autonomy architecture, whether a VLA, WAM, TAMP system, or foundation-model-based approach, the bottleneck ultimately converges on the same thing: data. These systems all depend on broad, high-quality training data that captures the environments, interactions, failure modes, and edge cases a robot will encounter in the real world. For lunar robotics, that challenge is especially acute because real-world data is scarce, expensive to collect, and difficult to reproduce, making simulation and synthetic data a critical part of the development stack.
-The authors argue that lunar robotics should be developed through an integrated simulation-first process with the limited amount of existing data available. Their framework combines OpenPLX and the AGX Dynamics physics engine to create high-fidelity lunar environments that model terrain and regolith with tunable physical properties, non-ideal sensors such as LiDAR, RGB-D cameras, IMUs, encoders, and odometers, machine dynamics, and autonomous behavior (*they are not simulating the Moon as a perfect digital twin). The framework also supports domain randomization and terrain variation to improve robustness, while generating simulation environments that can be used to train reinforcement-learning policies, including the rover's PPO-based Drive controller.
+The authors argue that lunar robotics should be developed through an integrated simulation-first process with the limited amount of existing data available. Their framework combines OpenPLX<sup><a href="#fn1">1</a></sup> and the AGX Dynamics<sup><a href="#fn2">2</a></sup> physics engine to create high-fidelity lunar environments that model terrain and regolith with tunable physical properties, non-ideal sensors such as LiDAR, RGB-D cameras, IMUs, encoders, and odometers, machine dynamics, and autonomous behavior (*they are not simulating the Moon as a perfect digital twin). The framework also supports domain randomization and terrain variation to improve robustness, while generating simulation environments that can be used to train reinforcement-learning policies, including the rover's PPO-based Drive<sup><a href="#fn3">3</a></sup> controller.
 
 ***Why this is important: The goal is to generate synthetic training scenarios and test failure models before any deployment. This is particularly important for lunar robotics because real-world data is scarce and physical testing on the Moon is effectively impossible at scale, making simulation a core part of both training and validation, a direction this industry is underdeveloped across the industry.***
 
@@ -33,11 +33,19 @@ The authors argue that lunar robotics should be developed through an integrated 
 
 ---
 
-Recent funding snapshot…
+**Recent funding snapshot…**
 
 **Lunar Outpost**: Builds autonomous lunar rovers and mobility systems that can support future excavation and resource operations. Closed a **\$30 million Series B** funding round in May 2026, bringing its total VC to approximately **\$52 million** led by Eniac Ventures, Promus Ventures, and Reliable Equity, among others.
 
 **Starpath Robotics**: Developing infrastructure to extract lunar resources, particularly water, and convert them into rocket propellant. Raised their **\$30M** Series A in May 2026, led by Seven Seven Six; Aurelia Foundry; Gaingels; Liquid 2 Ventures; Shasta Ventures, and others.
+
+---
+
+<div style="font-size: 0.8rem; color: var(--gray);">
+  <p id="fn1">1. OpenPLX: a human- and AI-readable modeling language used to define and connect robot designs, sensors, control interfaces, and simulation components in a reusable way.</p>
+  <p id="fn2">2. AGX Dynamics: the physics engine that simulates how the robot and lunar environment physically behave, including vehicle dynamics, regolith interaction, excavation, wheels, tracks, and sensors.</p>
+  <p id="fn3">3. PPO-based Drive controller: the rover's driving policy was trained using Proximal Policy Optimization (PPO), a reinforcement-learning algorithm.</p>
+</div>
 
 ---
 
