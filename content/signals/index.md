@@ -5,6 +5,13 @@ title: Signals
 Connecting research and open source to emerging themes across the startup ecosystem.
 
 <div class="idea-grid">
+  <a class="idea-card" href="/signals/pacing-the-frontier">
+    <div class="idea-card-text">
+      <div class="idea-title">Signals and Startups (No. 6) → Pacing the Frontier</div>
+      <div class="idea-date">September 18, 2026</div>
+    </div>
+    <img class="idea-image" src="/signals/pacing-the-frontier-1.png" alt="Signals and Startups (No. 6)" />
+  </a>
   <a class="idea-card" href="/signals/lunar-economy">
     <div class="idea-card-text">
       <div class="idea-title">Signals and Startups (No. 5) → The Lunar Economy Is Taking Shape</div>
