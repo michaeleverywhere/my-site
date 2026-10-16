@@ -5,6 +5,13 @@ title: Ideas
 Things I'm thinking about. Patterns in markets, technology, and the world.
 
 <div class="idea-grid">
+  <a class="idea-card" href="/ideas/spectrum-and-spacexs-acquisition">
+    <div class="idea-card-text">
+      <div class="idea-title">Spectrum and SpaceX's Acquisition</div>
+      <div class="idea-date">October 16, 2026</div>
+    </div>
+    <img class="idea-image" src="/ideas/spectrum-diagram.png" alt="Spectrum and SpaceX's Acquisition" />
+  </a>
   <a class="idea-card" href="/ideas/beyond-the-token">
     <div class="idea-card-text">
       <div class="idea-title">Beyond the Token</div>
