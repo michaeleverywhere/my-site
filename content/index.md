@@ -46,3 +46,139 @@ I'm an early-stage investor at [Everywhere Ventures](https://www.everywhere.vc/)
 → [[ideas|Ideas]]
 → [[signals|Signals]]
 → [[book-recs|Book Recs]]
+
+---
+
+<div class="idea-grid home-grid">
+<a class="idea-card" href="/ideas/spectrum-and-spacexs-acquisition">
+    <div class="idea-card-text">
+      <div class="idea-title">Spectrum and SpaceX's Acquisition</div>
+      <div class="idea-date">October 16, 2026</div>
+    </div>
+    <img class="idea-image" src="/ideas/spectrum-diagram.png" alt="Spectrum and SpaceX's Acquisition" />
+  </a>
+<a class="idea-card" href="/signals/pacing-the-frontier">
+    <div class="idea-card-text">
+      <div class="idea-title">Signals and Startups (No. 6) → Pacing the Frontier</div>
+      <div class="idea-date">September 18, 2026</div>
+    </div>
+    <img class="idea-image" src="/signals/pacing-the-frontier-1.png" alt="Signals and Startups (No. 6)" />
+  </a>
+<a class="idea-card" href="/ideas/beyond-the-token">
+    <div class="idea-card-text">
+      <div class="idea-title">Beyond the Token</div>
+      <div class="idea-date">September 4, 2026</div>
+    </div>
+    <img class="idea-image" src="/ideas/output-based-future.png" alt="Beyond the Token" />
+  </a>
+<a class="idea-card" href="/signals/lunar-economy">
+    <div class="idea-card-text">
+      <div class="idea-title">Signals and Startups (No. 5) → The Lunar Economy Is Taking Shape</div>
+      <div class="idea-date">September 1, 2026</div>
+    </div>
+    <img class="idea-image" src="/signals/lunar-economy-1.png" alt="Signals and Startups (No. 5)" />
+  </a>
+<a class="idea-card" href="/signals/compute-optimal-scaling">
+    <div class="idea-card-text">
+      <div class="idea-title">Signals and Startups (No. 4) → Chinchilla vs Gopher</div>
+      <div class="idea-date">August 19, 2026</div>
+    </div>
+    <img class="idea-image" src="/signals/compute-optimal-scaling-1.png" alt="Signals and Startups (No. 4)" />
+  </a>
+<a class="idea-card" href="/signals/continual-learning">
+    <div class="idea-card-text">
+      <div class="idea-title">Signals and Startups (No. 3) → Continual Learning</div>
+      <div class="idea-date">August 12, 2026</div>
+    </div>
+    <img class="idea-image" src="/signals/continual-learning-1.png" alt="Signals and Startups (No. 3)" />
+  </a>
+<a class="idea-card" href="/signals/robot-brain">
+    <div class="idea-card-text">
+      <div class="idea-title">Signals and Startups (No. 2) → Inside a Robot's Brain</div>
+      <div class="idea-date">August 3, 2026</div>
+    </div>
+    <img class="idea-image" src="/signals/robot-brain-1.png" alt="Signals and Startups (No. 2)" />
+  </a>
+<a class="idea-card" href="/signals/agentic-payments">
+    <div class="idea-card-text">
+      <div class="idea-title">Signals and Startups (No. 1) → Agentic Commerce</div>
+      <div class="idea-date">July 27, 2026</div>
+    </div>
+    <img class="idea-image" src="/signals/agentic-payments-1.png" alt="Signals and Startups (No. 1)" />
+  </a>
+<a class="idea-card" href="/ideas/making-compute-malleable">
+    <div class="idea-card-text">
+      <div class="idea-title">Making Compute Malleable</div>
+      <div class="idea-date">July 24, 2026</div>
+    </div>
+    <img class="idea-image" src="/ideas/malleable.png" alt="Making Compute Malleable" />
+  </a>
+<a class="idea-card" href="/ideas/the-diminishing-returns-of-intelligence">
+    <div class="idea-card-text">
+      <div class="idea-title">The Diminishing Returns of Intelligence</div>
+      <div class="idea-date">July 4, 2026</div>
+    </div>
+    <img class="idea-image" src="/diminishing_1.png" alt="The Diminishing Returns of Intelligence" />
+  </a>
+<a class="idea-card" href="/ideas/compute-in-space">
+    <div class="idea-card-text">
+      <div class="idea-title">Compute's Next Geography</div>
+      <div class="idea-date">June 24, 2026</div>
+    </div>
+    <img class="idea-image" src="/compute-in-space.png" alt="Compute in Space" />
+  </a>
+<a class="idea-card" href="/ideas/internet-wasnt-built-for-ai">
+    <div class="idea-card-text">
+      <div class="idea-title">The Internet Wasn't Built for AI</div>
+      <div class="idea-date">June 15, 2026</div>
+    </div>
+    <img class="idea-image" src="/internet-article.png" alt="The Internet Wasn't Built for AI" />
+  </a>
+<a class="idea-card" href="/ideas/spacex-ipo">
+    <div class="idea-card-text">
+      <div class="idea-title">How COTS Changed the Space Economy</div>
+      <div class="idea-date">June 8, 2026</div>
+    </div>
+    <img class="idea-image" src="/ideas/spacex-ipo.jpg" alt="How COTS Changed the Space Economy" />
+  </a>
+<a class="idea-card" href="/ideas/robots-are-winning-marathons">
+    <div class="idea-card-text">
+      <div class="idea-title">Robots Are Winning Marathons</div>
+      <div class="idea-date">May 27, 2026</div>
+    </div>
+    <img class="idea-image" src="/ideas/robot-marathon.webp" alt="Robots Are Winning Marathons" />
+  </a>
+<a class="idea-card" href="/ideas/billion-dollar-breakups">
+    <div class="idea-card-text">
+      <div class="idea-title">Billion Dollar Breakups</div>
+      <div class="idea-date">May 25, 2026</div>
+    </div>
+    <img class="idea-image" src="/ideas/billion-breakups-cover.jpg" alt="Billion Dollar Breakups" />
+  </a>
+</div>
+
+<style>
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.25rem;
+  margin-top: 1.75rem;
+}
+.home-grid .idea-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  overflow: hidden;
+  text-decoration: none;
+  color: var(--dark);
+  transition: border-color 0.15s ease;
+  max-width: none;
+}
+.home-grid .idea-card:hover { border-color: var(--gray); }
+.home-grid .idea-card-text { padding: 0.9rem 1rem 0.8rem; }
+.home-grid .idea-title { font-size: 0.95rem; font-weight: 600; margin-bottom: 0.3rem; }
+.home-grid .idea-date { font-size: 0.8rem; color: var(--gray); }
+.home-grid .idea-image { width: 100%; height: 140px; object-fit: cover; margin-top: auto; }
+@media (max-width: 600px) { .home-grid { grid-template-columns: 1fr; } }
+</style>
