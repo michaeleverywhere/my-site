@@ -5,6 +5,13 @@ title: Ideas
 Things I'm thinking about. Patterns in markets, technology, and the world.
 
 <div class="idea-grid">
+  <a class="idea-card" href="/ideas/what-does-it-mean-to-optimize-ai">
+    <div class="idea-card-text">
+      <div class="idea-title">What Does It Actually Mean to “Optimize AI”</div>
+      <div class="idea-date">November 8, 2026</div>
+    </div>
+    <img class="idea-image" src="/ideas/optimize-ai-stack.png" alt="What Does It Actually Mean to “Optimize AI”" />
+  </a>
   <a class="idea-card" href="/ideas/spectrum-and-spacexs-acquisition">
     <div class="idea-card-text">
       <div class="idea-title">Spectrum and SpaceX's Acquisition</div>
